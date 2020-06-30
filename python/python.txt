@@ -57,6 +57,9 @@ lambda apply 중요!!
 6. ...etc
 =>pandas로 여러 파일을 불러들일 수 있다.
 
+Jason : 데이터를 주고받는 방법 중 하나. 
+
+
 
 
 
